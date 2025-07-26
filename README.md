@@ -80,7 +80,7 @@ This model handles dynamic navigation item rendering with optional badges.
 1. **Clone this repo:**
 
    ```bash
-   git clone https://github.com/yourusername/compose-bottom-navigation.git
+   git clone https://github.com/tanvir-chy-ahmed/bottom_nav_bar.git
    ```
 
 2. **Open in Android Studio**
